@@ -1,4 +1,4 @@
-# PyTorch-for-Deep-Learning-and-Computer-Vision
+# PyTorch for Deep Learning and Computer Vision
 
 A Jupyter notebook for the online video course "PyTorch for Deep Learning and Computer Vision
 by Rayan SlimJad SlimAmer SharafSarmad Tanveer"
