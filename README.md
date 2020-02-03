@@ -3,6 +3,7 @@
 A Jupyter notebook for the online video course "PyTorch for Deep Learning and Computer Vision
 by Rayan SlimJad SlimAmer SharafSarmad Tanveer"
 
+![gogh-style-minecraft.png](./gogh-style-minecraft.png)
 
 ## Course URLs
 
